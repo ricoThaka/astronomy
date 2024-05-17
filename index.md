@@ -79,12 +79,306 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 
 <h2> Wartime Sexual Violence</h2>
 <a href="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg"> <img src="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg" style="width:200px;height:300px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
-<p>Wartime sexual violence is rape or other forms of sexual violence committed by combatants during armed conflict, war, or military occupation often as spoils of war, but sometimes, particularly in ethnic conflict, the phenomenon has broader sociological motives. Wartime sexual violence may also include gang rape and rape with objects. A war crime, it is distinguished from sexual harassment, sexual assaults and rape committed amongst troops in military service.[1][2][3]</p>
-<p>During war and armed conflict, rape is frequently used as a means of psychological warfare in order to humiliate the enemy. Wartime sexual violence may occur in a variety of situations, including institutionalized sexual slavery, wartime sexual violence associated with specific battles or massacres, as well as individual or isolated acts of sexual violence.</p>
-<p>Rape can also be recognized as genocide when committed with the intent to destroy, in whole or in part, a targeted group. International legal instruments for prosecuting perpetrators for genocide were developed in the 1990s, with the Akayesu case of the International Criminal Tribunal for Rwanda being widely considered as a precedent.[4] However, these legal instruments have so far only been used for international conflicts, thus putting the burden of proof in citing the international nature of conflict in order for prosecution to proceed.</p>
-<p>## Definition of wartime sexual violence # Main article: Rape There is no consensus definition of wartime sexual violence, as there is variance in what forms of violence are included in the definition and variance in which violence is considered conflict-related.[5] The terms rape, sexual assault and sexual violence are frequently used interchangeably.[6] The Explanatory Note of the Rome Statute, which binds the International Criminal Court, defines rape as follows: </p><p> The perpetrator invaded the body of a person by conduct resulting in penetration, however slight, of any part of the body of the victim or of the perpetrator with a sexual organ, or of the anal or genital opening of the victim with any object or any other part of the body.[7] and The invasion was committed by force, or by threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power, against such person or another person, or by taking advantage of a coercive environment, or the invasion was committed against a person incapable of giving genuine consent.[7] The concept of "invasion" is intended to be broad enough to be gender-neutral and the definition is understood to include situations where the victim may be incapable of giving genuine consent if affected by natural, induced or age-related incapacity.[8] A prominent data-set on conflict-related sexual violence, Sexual Violence in Armed Conflict (SVAC), builds on the ICC definition and covers seven forms of violence: "(a) rape, (b) sexual slavery, (c) forced prostitution, (d) forced pregnancy, (e) forced sterilization/abortion, (f) sexual mutilation, and (g) sexual torture."[5] The data-set defines conflict-related sexual violence as the sexual violence committed "armed actors (specifically, state militaries, rebel groups, and progovernment militias) during periods of conflict or immediately postconflict," thus excluding sexual violence by civilians.[5] More expansive definitions may define wartime sexual violence as being committed even by civilians if the conflict creates a sense of impunity.[5]</p>
+Wartime sexual violence is rape or other forms of sexual violence committed by combatants during armed conflict, war, or military occupation often as spoils of war, but sometimes, particularly in ethnic conflict, the phenomenon has broader sociological motives. Wartime sexual violence may also include gang rape and rape with objects. A war crime, it is distinguished from sexual harassment, sexual assaults and rape committed amongst troops in military service.[1][2][3]
+During war and armed conflict, rape is frequently used as a means of psychological warfare in order to humiliate the enemy. Wartime sexual violence may occur in a variety of situations, including institutionalized sexual slavery, wartime sexual violence associated with specific battles or massacres, as well as individual or isolated acts of sexual violence.
+Rape can also be recognized as genocide when committed with the intent to destroy, in whole or in part, a targeted group. International legal instruments for prosecuting perpetrators for genocide were developed in the 1990s, with the Akayesu case of the International Criminal Tribunal for Rwanda being widely considered as a precedent.[4] However, these legal instruments have so far only been used for international conflicts, thus putting the burden of proof in citing the international nature of conflict in order for prosecution to proceed.
+
+## Definition of wartime sexual violence
+ # Main article: 
+ Rape There is no consensus definition of wartime sexual violence, as there is variance in what forms of violence are included in the definition and variance in which violence is considered conflict-related.[5] The terms rape, sexual assault and sexual violence are frequently used interchangeably.[6] The Explanatory Note of the Rome Statute, which binds the International Criminal Court, defines rape as follows:  The perpetrator invaded the body of a person by conduct resulting in penetration, however slight, of any part of the body of the victim or of the perpetrator with a sexual organ, or of the anal or genital opening of the victim with any object or any other part of the body.[7] and The invasion was committed by force, or by threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power, against such person or another person, or by taking advantage of a coercive environment, or the invasion was committed against a person incapable of giving genuine consent.[7] The concept of "invasion" is intended to be broad enough to be gender-neutral and the definition is understood to include situations where the victim may be incapable of giving genuine consent if affected by natural, induced or age-related incapacity.[8] A prominent data-set on conflict-related sexual violence, Sexual Violence in Armed Conflict (SVAC), builds on the ICC definition and covers seven forms of violence: "(a) rape, (b) sexual slavery, (c) forced prostitution, (d) forced pregnancy, (e) forced sterilization/abortion, (f) sexual mutilation, and (g) sexual torture."[5] The data-set defines conflict-related sexual violence as the sexual violence committed "armed actors (specifically, state militaries, rebel groups, and progovernment militias) during periods of conflict or immediately postconflict," thus excluding sexual violence by civilians.[5] More expansive definitions may define wartime sexual violence as being committed even by civilians if the conflict creates a sense of impunity.[5]
 
 </div>
+
+
+      <div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://mars.nasa.gov/system/resources/detail_files/26036_E2-PIA19074-web.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg" alt="Girl in a jacket" >
+      
+            </div>
+          </div>
+        </div>
+      </div>
+      <video controls width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
+    
+        <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
+        video.
+      </video>    
+      <img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
+      <video controls width="100%" height="auto" poster="https://mars.nasa.gov/system/resources/detail_files/27698_e2-PIA26042-Curiosity's-Path-Beyond-Gediz-Vallis-Ridge-still-web.jpg">
+    
+        <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+      </video>
+      <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+      <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
+      
+       <title>js-dos api</title>
+        <style type="text/css">
+          .dosbox-container { width: 100%; height: 400px; }
+          .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
+        </style>
+    
+      <body>
+        <div id="dosbox"></div>
+        <br/>
+        <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
+        
+        <script type="text/javascript" src="https://js-dos.com/cdn/js-dos-api.js"></script>
+        <script type="text/javascript">
+          var dosbox = new Dosbox({
+            id: "dosbox",
+            onload: function (dosbox) {
+              dosbox.run("https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/DOSBOX_SSF2T.ZIP", "./SF2TURBO.EXE");
+            },
+            onrun: function (dosbox, app) {
+              console.log("App '" + app + "' is runned");
+            }
+          });
+        </script>  
+            <video controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/stealmyattention.JPG">
+    
+                <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/TOKIMONSTA_StealMyAttention_ StrangeloopVisualization.mp4" type="video/mp4" />
+              
+                Download the
+                or
+                <a href="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
+                video.
+              </video>    
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Perl_language_logo.svg/2048px-Perl_language_logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LAMP_software_bundle.svg/1024px-LAMP_software_bundle.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/VirtualBox_SUSE_Linux_10.0.png?20180723024533" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/OpenSUSE_15.5_screenshot.png/1024px-OpenSUSE_15.5_screenshot.png" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/YaST2_ncurses_mode_screenshot.png" /> 
+      <img src="https://www.redhat.com/rhdc/managed-files/rhb-logos-red_hat_logo-hero_image_1.svg" />
+    <img src="https://www.redhat.com/rhdc/managed-files/Brand_Standars-Red_Hat-_one-color_on-black.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Apple_Logo.svg/1719px-Apple_Logo.svg.png" />
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/858px-Apple_Computer_Logo_rainbow.svg.png" /> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OpenSolaris_Logo_%282%29.svg/2560px-OpenSolaris_Logo_%282%29.svg.png" /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/OpenSolaris-snv_134b.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/OpenSolaris_Logo.svg/2178px-OpenSolaris_Logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Icon-sun-solaris_os.svg/2048px-Icon-sun-solaris_os.svg.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Oracle_Solaris_logo.svg/2560px-Oracle_Solaris_logo.svg.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" />  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/744px-Database-mysql.svg.png" />  
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Apache_HTTP_Server_Logo_%282016%29.svg/1000px-Apache_HTTP_Server_Logo_%282016%29.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WhiteSwirl.svg/2048px-WhiteSwirl.svg.png" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/SEGA_logo.svg/2560px-SEGA_logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dreamcast_logo.svg/2560px-Dreamcast_logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Sega_genesis_logo2.svg/2560px-Sega_genesis_logo2.svg.png" />
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sega_CD_Logo.svg/951px-Sega_CD_Logo.svg.png" />
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Nintendo_red_logo.svg/1024px-Nintendo_red_logo.svg.png" />
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MAMELogo.svg/1214px-MAMELogo.svg.png" />
+      
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Freebsd_logo.svg/2560px-Freebsd_logo.svg.png" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo_%282%29.svg/2560px-Former_Ubuntu_logo_%282%29.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/2560px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" />
+      <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+      <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+      <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+      <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+      <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+      <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NASA-SpitzerTelescope-Logo.svg/2560px-NASA-SpitzerTelescope-Logo.svg.png" /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mars_Helicopter_JPL_insignia.svg/2560px-Mars_Helicopter_JPL_insignia.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sun-Logo.svg/2560px-Sun-Logo.svg.png" />
+      <object type="application/pdf" data="https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf" width="250" height="200"></object>
+      <hr />
+        <video width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+      <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+    
+      </video>
+    
+      <h1>Ghost in the Shell</h1>
+      <figure id="videoContainer" data-fullscreen="false">
+        <video id="video" controls preload="metadata" poster="https://i.pinimg.com/originals/78/90/8d/78908d698afe140f84bee67f0365ace5.gif">
+          <source src="https://archive.org/download/ghost-in-the-shell-sac-03/ghost%20in%20the%20shell%20sac%2003.mp4" type="video/mp4">
+          <source src="https://archive.org/download/ghost-in-the-shell-sac-03/ghost%20in%20the%20shell%20sac%2003.MKV" type=type="video/x-matroska;">
+    
+          <!-- Offer download -->
+          <a href="https://archive.org/download/ghost-in-the-shell-sac-03/ghost%20in%20the%20shell%20sac%2003.mp4">Download MP4</a>
+        </video>
+        <div id="video-controls" class="controls" data-state="hidden">
+          <button id="playpause" type="button" data-state="play">Play/Pause</button>
+          <button id="stop" type="button" data-state="stop">Stop</button>
+          <div class="progress">
+            <progress id="progress" value="0" min="0">
+              <span id="progress-bar"></span>
+            </progress>
+          </div>
+          <button id="mute" type="button" data-state="mute">Mute/Unmute</button>
+          <button id="volinc" type="button" data-state="volup">Vol+</button>
+          <button id="voldec" type="button" data-state="voldown">Vol-</button>
+          <button id="fs" type="button" data-state="go-fullscreen">Fullscreen</button>
+        </div>
+        <figcaption>
+          &copy; 攻殻機動隊 | <a href="https://en.wikipedia.org/wiki/Ghost_in_the_Shell:_SAC_2045">
+            Ghost in the Shell: SAC_03</a>
+        </figcaption>
+      </figure>  
+      
+      
+
+        <div class="storyBox">
+      
+            <div class="card">
+                <div class="face face1">
+                    <div class="storycontent">
+                            <div class="bookCover">
+      <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+    
+    </div>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <div class="storycontent">
+                               <p>Aesop's Fables is a collection of tales by the Greek storyteller Aesop. Most of the tales included here were translated and edited by Reverend George Fyler Townsend (1814-1900) in England and published under the title, Aesop's Fables. <audio controls="" style="width:99%;">
+                <source src="https://etc.usf.edu/lit2go/audio/mp3/aesops-fables-001--the-ant-and-the-grasshopper.366.mp3" type="audio/mpeg">
+                <source src="https://etc.usf.edu/lit2go/audio/ogg/aesops-fables-001--the-ant-and-the-grasshopper.366.ogg" type="audio/ogg">
+                The embedded audio player requires a modern internet browser. You should visit <a href="https://browsehappy.com/">Browse Happy</a> and update your internet browser today!
+              </audio></p>
+            <a href="https://etc.usf.edu/lit2go/35/aesops-fables/" target="_blank" rel="noopener noreferrer" >Read More##LiT_To_Go##</a>
+                    </div>
+                </div>
+      <img src="https://mars.nasa.gov/system/resources/detail_files/27872_PIA26209-web.gif">
+     <img src="https://murray-lab.caltech.edu/Mars2020/img/Jezero-perspective.jpg">
+    <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg">
+     
+      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/555596409&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/jumpin-on-a-jet" title="Future - Jumpin on a Jet" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Jumpin on a Jet</a></div>
+      <!--
+      <embed>https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html </embed>  
+     <iframe width="100%" height="787" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://murray-lab.caltech.edu/CTX/V01/SceneView/"></iframe> -->
+      
+    <h1><span id="Main_heading">Main heading</span></h1>
+    <h2><span id="Subheading">Subheading</span></h2>
+    <h3><span id="Sub-subheading">Sub-subheading</span></h3>
+    <h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
+    <h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
+    <h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
+    
+        <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
+     Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
+      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
+      <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
+         <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+    Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
+      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
+    <a href="https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_m.html">The Global CTX Mosaic
+      of Mars</a>
+      <a href="https://astrogeology-usgs.hub.arcgis.com/pages/interactive-maps-mars">USGS-NASA Planetary Geologic Mapping Program ::Interactive Maps: Mars</a>
+      
+    <video controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/stealmyattention.JPG">
+    
+      <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/TOKIMONSTA_StealMyAttention_ StrangeloopVisualization.mp4" type="video/mp4" />
+    
+      Download the
+      or
+      <a href="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
+      video.
+    </video>    
+      
+       <img src="https://static.uahirise.org/hipod/ESP_040663_1415.jpg" />
+     <div class="flex-container">
+       
+        <div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
+        <div class="item2">                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
+        <div class="item3">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
+    </div> 
+      
+      <!--  ------------------------- -->
+     
+    
+    
+      
+    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/827264095&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cassbeats" title="CassBeats" target="_blank" style="color: #cccccc; text-decoration: none;">CassBeats</a> · <a href="https://soundcloud.com/cassbeats/4-jadakiss-keep-it-100" title="4. Jadakiss - Keep It 100" target="_blank" style="color: #cccccc; text-decoration: none;">4. Jadakiss - Keep It 100</a></div>
+            <img id="round" src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girl in a jacket" >
+    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116270538&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+    <embed width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1175144206&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></embed><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jiahofficial" title="Jiah" target="_blank" style="color: #cccccc; text-decoration: none;">Jiah</a> · <a href="https://soundcloud.com/jiahofficial/halo" title="halo" target="_blank" style="color: #db362d; text-decoration: none;">halo</a></div>
+    <div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girl in a jacket" >
+    
+          </div>
+        </div>
+      </div>
+    </div>
+    <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" >
+    <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg">
+    <pre>body {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        font-family: verdana, arial, helvetica, sans-serif;
+        color: #ccc;
+        background-color: #333;
+        text-align: center;
+        /* part 1 of 2 centering hack */
+        }
+    #content {
+        width: 400px; 
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: auto;
+        margin-left: auto; 	
+        /* opera does not like 'margin:20px auto' */
+        background: #666;
+        border: 5px solid #ccc;
+        text-align:left; 
+        /* part 2 of 2 centering hack */
+        width: 400px; /* ie5win fudge begins */
+        voice-family: "\"}\"";
+        voice-family:inherit;
+        width: 370px;
+        }
+    html&gt;body #content {
+        width: 370px; /* ie5win fudge ends */
+        }
+    </pre>
+    
+    <div style="padding:20px;" align="right"><p><a href="css/01_centered_box.css">[full css]</a></p></div>
+    
+    </div>
+    
 
 [Thaka_and_Sartu_YoutubeAccount](https://www.youtube.com/@thakasartukellyselassie6468/videos)
 [Wild 94.9 | Fierce Freestyle Classics | Vol. 2 | The Mixtress](https://www.youtube.com/watch?v=yVZy7jtIwI4)
