@@ -14,7 +14,8 @@ carousels:
     - image: /uploads/slider/image4.jpg 
 ---
   {% include carousel.html height="50" unit="%" duration="1" number="1" %}
-
+{% capture my_include %}{% include https://raw.githubusercontent.com/ThakaSartu/holetoanotheruniverse/master/index.md %}{% endcapture %}
+{{ my_include | markdownify }}
   {% include carousel.html height="50" unit="%" duration="2" number="2" %}
 <section>
   {% if site.posts[0] %}
