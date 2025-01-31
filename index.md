@@ -24,8 +24,8 @@ carousels:
 </div>
 
 
-
-
+![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
 ![CassiniSaturn](https://solarsystem.nasa.gov/images/casJPGFullS32/W00033404.jpg)
 ![SaturnCassiniStatic](https://pbs.twimg.com/media/GguYVWdbEAAoI5E?format=jpg&name=large)
 ![Daphnis](https://solarsystem.nasa.gov/images/casJPGFullS97/N00274737.jpg)
